@@ -4,7 +4,7 @@
 
 1. Clone the repo:
 ```bash
-git clone https://github.com/yourname/ai-category-search.git
+git clone https://github.com/alpeshkothari123/ai-category-search.git
 cd ai-category-search
 
 
